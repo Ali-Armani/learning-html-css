@@ -233,3 +233,40 @@
         cursor: text;
         column-rule-style: inset;
     }
+
+.divdesc {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 16px;
+        font-weight: 500;
+    }
+    .moretext {
+        cursor: pointer;
+    }
+    .divbox {
+        width: 350px;
+        margin-left: 65px;
+        margin-top: 40px;
+        margin-right: 10px;
+        display: inline-block;
+        vertical-align: top;
+    }
+    .divimage {
+        width: 350px;
+        vertical-align: top;
+        max-height: 200px;
+    }
+    .divtitle {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 25px;
+        font-weight: bold;
+        margin-top: 10px;
+        margin-bottom: 0;
+        text-align: center;
+    }
+    .divauthor {
+        color: rgb(81, 72, 72);
+        margin-top: 10px;
+        text-align: center;
+        margin-bottom: 22px;
+    }
+
